@@ -9,8 +9,7 @@ venv/
 .ipynb_checkpoints/
 
 # Outputs / generated artifacts
-Unit*/outputs/*.png
-Unit*/outputs/*.csv
+# (performance results and graphs are committed intentionally)
 
 # OS
 .DS_Store
