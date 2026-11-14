@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs / generated artifacts
+Unit*/outputs/*.png
+Unit*/outputs/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
